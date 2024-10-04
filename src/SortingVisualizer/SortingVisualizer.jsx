@@ -12,7 +12,7 @@ const NUMBER_OF_BARS = 315;
 const PRIMARY_COLOR = '#20B2AA';
 
 // The color of array bars that are being compared.
-const SECONDARY_COLOR = '#BF40BF';
+const SECONDARY_COLOR = 'yellow';
 
 export default class SortingVisualizer extends React.Component {
     constructor(props) {
